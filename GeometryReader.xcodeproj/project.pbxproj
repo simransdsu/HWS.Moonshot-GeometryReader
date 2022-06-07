@@ -11,6 +11,8 @@
 		49509231284E4D2D000B6662 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509230284E4D2D000B6662 /* ContentView.swift */; };
 		49509233284E4D2E000B6662 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49509232284E4D2E000B6662 /* Assets.xcassets */; };
 		49509236284E4D2E000B6662 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49509235284E4D2E000B6662 /* Preview Assets.xcassets */; };
+		4950925E284F8FA5000B6662 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 4950925C284F8FA5000B6662 /* astronauts.json */; };
+		4950925F284F8FA5000B6662 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 4950925D284F8FA5000B6662 /* missions.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		49509230284E4D2D000B6662 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		49509232284E4D2E000B6662 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49509235284E4D2E000B6662 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4950925C284F8FA5000B6662 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = astronauts.json; sourceTree = "<group>"; };
+		4950925D284F8FA5000B6662 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = missions.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 				4950922E284E4D2D000B6662 /* GeometryReaderApp.swift */,
 				49509230284E4D2D000B6662 /* ContentView.swift */,
 				49509232284E4D2E000B6662 /* Assets.xcassets */,
+				4950925C284F8FA5000B6662 /* astronauts.json */,
+				4950925D284F8FA5000B6662 /* missions.json */,
 				49509234284E4D2E000B6662 /* Preview Content */,
 			);
 			path = GeometryReader;
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4950925E284F8FA5000B6662 /* astronauts.json in Resources */,
 				49509236284E4D2E000B6662 /* Preview Assets.xcassets in Resources */,
+				4950925F284F8FA5000B6662 /* missions.json in Resources */,
 				49509233284E4D2E000B6662 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
