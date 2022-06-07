@@ -16,6 +16,7 @@
 		49509261284F902D000B6662 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509260284F902D000B6662 /* Astronaut.swift */; };
 		49509263284F90D9000B6662 /* BundleDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509262284F90D9000B6662 /* BundleDecodable.swift */; };
 		49509265284F926E000B6662 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509264284F926E000B6662 /* Mission.swift */; };
+		49509267284F9A34000B6662 /* ColorTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509266284F9A34000B6662 /* ColorTheme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		49509260284F902D000B6662 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
 		49509262284F90D9000B6662 /* BundleDecodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleDecodable.swift; sourceTree = "<group>"; };
 		49509264284F926E000B6662 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
+		49509266284F9A34000B6662 /* ColorTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTheme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				4950925C284F8FA5000B6662 /* astronauts.json */,
 				4950925D284F8FA5000B6662 /* missions.json */,
 				49509234284E4D2E000B6662 /* Preview Content */,
+				49509266284F9A34000B6662 /* ColorTheme.swift */,
 			);
 			path = GeometryReader;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				49509261284F902D000B6662 /* Astronaut.swift in Sources */,
 				49509263284F90D9000B6662 /* BundleDecodable.swift in Sources */,
 				49509231284E4D2D000B6662 /* ContentView.swift in Sources */,
+				49509267284F9A34000B6662 /* ColorTheme.swift in Sources */,
 				49509265284F926E000B6662 /* Mission.swift in Sources */,
 				4950922F284E4D2D000B6662 /* GeometryReaderApp.swift in Sources */,
 			);
