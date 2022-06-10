@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		491E90952852A57C00FDC63D /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491E90942852A57C00FDC63D /* MissionView.swift */; };
+		491E90972852DB2C00FDC63D /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491E90962852DB2C00FDC63D /* AstronautView.swift */; };
 		4950922F284E4D2D000B6662 /* GeometryReaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4950922E284E4D2D000B6662 /* GeometryReaderApp.swift */; };
 		49509231284E4D2D000B6662 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49509230284E4D2D000B6662 /* ContentView.swift */; };
 		49509233284E4D2E000B6662 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49509232284E4D2E000B6662 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		491E90942852A57C00FDC63D /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		491E90962852DB2C00FDC63D /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 		4950922B284E4D2D000B6662 /* GeometryReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeometryReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4950922E284E4D2D000B6662 /* GeometryReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderApp.swift; sourceTree = "<group>"; };
 		49509230284E4D2D000B6662 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				4950925D284F8FA5000B6662 /* missions.json */,
 				49509234284E4D2E000B6662 /* Preview Content */,
 				49509266284F9A34000B6662 /* ColorTheme.swift */,
+				491E90962852DB2C00FDC63D /* AstronautView.swift */,
 			);
 			path = GeometryReader;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 			files = (
 				491E90952852A57C00FDC63D /* MissionView.swift in Sources */,
 				49509261284F902D000B6662 /* Astronaut.swift in Sources */,
+				491E90972852DB2C00FDC63D /* AstronautView.swift in Sources */,
 				49509263284F90D9000B6662 /* BundleDecodable.swift in Sources */,
 				49509231284E4D2D000B6662 /* ContentView.swift in Sources */,
 				49509267284F9A34000B6662 /* ColorTheme.swift in Sources */,
